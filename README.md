@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+This is here so I can apply for GitHub Education hhehehehehe
+
+Currently I don't really know what I want to say here so give me some time to think about it :) 
+
+
 <!--
 **AdrielLoh/AdrielLoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
